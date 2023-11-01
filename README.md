@@ -1,22 +1,25 @@
 <hr>
-<h4>Que bom te ver por aqui! Tudo bom?</h4>
+<strong>Que bom te ver por aqui! Tudo bom?</strong>
 
-<h5>"Sou pessoense, tenho 23 anos. Minha jornada profissional começou há pouco mais de um ano, quando conheci o mundo do front-end. Desde então, tenho mergulhado de cabeça no universo do desenvolvimento web, sempre buscando novos desafios e aprimorando minhas habilidades.</h5>
+<br>
+<br>
 
-<h5>A paixão pela tecnologia não se limita apenas ao trabalho - ela faz parte do meu estilo de vida. Sempre estou em busca das últimas tendências e novidades, seja para aprimorar meu conhecimento ou para buscar inspiração para os meus projetos.</h5>
+"Sou pessoense, tenho 23 anos. Minha jornada profissional começou há pouco mais de um ano, quando conheci o mundo do front-end. Desde então, tenho mergulhado de cabeça no universo do desenvolvimento web, sempre buscando novos desafios e aprimorando minhas habilidades.</span>
 
-<h5>Meu objetivo é continuar evoluindo profissionalmente, buscando desafios que me permitam expandir meu conhecimento e habilidades. Estou animado para o que o futuro reserva e ansioso para colaborar em projetos que me permitam unir minha paixão por tecnologia, design e criatividade.</h5>
+A paixão pela tecnologia não se limita apenas ao trabalho - ela faz parte do meu estilo de vida. Sempre estou em busca das últimas tendências e novidades, seja para aprimorar meu conhecimento ou para buscar inspiração para os meus projetos.
 
-<h5>Se você está interessado em trabalhar comigo ou apenas quer trocar ideias sobre desenvolvimento, tecnologia ou qualquer outro tópico não hesite em entrar em contato. Meus links estão abaixo da minha bio" :-) </h5>
+Meu objetivo é continuar evoluindo profissionalmente, buscando desafios que me permitam expandir meu conhecimento e habilidades. Estou animado para o que o futuro reserva e ansioso para colaborar em projetos que me permitam unir minha paixão por tecnologia, design e criatividade.
+
+Se você está interessado em trabalhar comigo ou apenas quer trocar ideias sobre desenvolvimento, tecnologia ou qualquer outro tópico não hesite em entrar em contato. Meus links estão abaixo da minha bio" :-)
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gioercilio&theme=swift&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
-<h4>Techs</h4>
+<strong>Techs</strong>
 
-<h5>Aqui listei algumas linguagens, bibliotecas, frameworks e algumas ferramentas de desenvolvimento que eu tenho afinidade!</h5>  
+Aqui listei algumas linguagens, bibliotecas, frameworks e algumas ferramentas de desenvolvimento que eu tenho afinidade!
 
 <div style="display: flex; justify-content: start;">
   <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
